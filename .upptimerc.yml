@@ -7,6 +7,7 @@ sites:
     url: mc.flintonsmp.live
     port: 25608
     check: "tcp-ping"
+    icon: https://github.com/FlintonSMP/status/raw/refs/heads/master/assets/flinton.webp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
