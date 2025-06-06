@@ -1,4 +1,4 @@
-# [📈 Live Status](https://obfuscatedgenerated.github.io/flintonsmp_status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.flintonsmp.live): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [FlintonSMP](https://github.com/FlintonSMP), powered by [Upptime](https://github.com/upptime/upptime).
 
