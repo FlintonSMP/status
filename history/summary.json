@@ -5,18 +5,16 @@
     "icon": "https://github.com/FlintonSMP/status/raw/refs/heads/master/assets/flinton.webp",
     "slug": "flinton-smp",
     "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "65.02%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "96.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 109,
     "timeDay": 97,
-    "timeWeek": 111,
+    "timeWeek": 107,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2025-06-15": 504
-    }
+    "dailyMinutesDown": {}
   }
 ]
